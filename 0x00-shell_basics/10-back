@@ -1,3 +1,2 @@
 #!/bin/bash
-read var
-cd $var
+cd -
