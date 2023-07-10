@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -iA 3 "root" /ect/passwd
+gerp -iA 3 "root" /ect/passwd
